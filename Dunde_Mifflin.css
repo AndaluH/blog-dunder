@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(186, 189, 248);
+    margin: 0px;
+}
+nav{
+    background-color: rgb(186, 189, 248);
+    text-align: center;
+    padding: 20px;
+}
+ nav a {
+    margin-right: 20px;
+    border: 2px solid;
+    padding: 5px;
+ }
+ header {
+    margin: 15px;
+    border: 5px solid rgb(12, 10, 117, 0.899);
+    text-align: center;
+    background-color: rgba(24, 23, 122, 0.899);
+}
+article {
+    margin: 15px;
+    text-align: center;
+    
+}
+
+h1{
+    margin: 15px;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+h2 {
+    margin: 15px;
+    text-align: center;
+
+}
+ul {
+    margin: 40px;
+
+}
